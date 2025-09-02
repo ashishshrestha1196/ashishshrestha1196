@@ -24,7 +24,7 @@ My goal is to leverage my expertise in **system administration, cloud technologi
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+    <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
 ### Network
