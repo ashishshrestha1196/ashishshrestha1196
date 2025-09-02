@@ -36,7 +36,7 @@ My goal is to leverage my expertise in **system administration, cloud technologi
 ### Virtualization & Cloud
 <div>
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hyper-V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hyper-V-0078D4?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
 </div>
 
