@@ -2,7 +2,7 @@
 
 ## Objective
 
-My goal is to leverage my expertise in **system administration, cloud technologies, and DevOps practices** to contribute to IT operations, infrastructure management, and automation projects. I am aiming for roles that involve **system administration, cloud deployment, and DevOps engineering**.
+I am a Systems & Network Engineer with over 5 years of experience delivering end-to-end IT infrastructure solutions, supporting enterprise networks, and ensuring system reliability for clients across industries. My expertise lies in designing, implementing, and troubleshooting Windows/Linux servers, virtualization platforms, and enterprise networks while providing clear, customer-focused technical support.
 
 ## Skills
 
@@ -57,9 +57,3 @@ My goal is to leverage my expertise in **system administration, cloud technologi
     <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=compTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=compTIA&logoColor=white" />
 </div>
-
-## Projects
-- **NinjaPostal Network Infrastructure** – Designed and deployed multi-site network with VLANs, BGP/OSPF routing, and server deployment.
-- **Server Performance Monitoring Tool** – Bash script to analyze CPU, memory, disk usage, and top processes.
-- **GitHub Actions Deployment Workflow** – CI/CD pipeline for automated deployment of static websites to GitHub Pages.
-
