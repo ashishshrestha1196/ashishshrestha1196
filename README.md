@@ -2,7 +2,7 @@
 
 ## Objective
 
-I am a Systems & Network Engineer with over 5 years of experience delivering end-to-end IT infrastructure solutions, supporting enterprise networks, and ensuring system reliability for clients across industries. My expertise lies in designing, implementing, and troubleshooting Windows/Linux servers, virtualization platforms, and enterprise networks while providing clear, customer-focused technical support.
+I am a *Systems & Network Engineer* with over 5 years of experience delivering end-to-end IT infrastructure solutions, supporting enterprise networks, and ensuring system reliability for clients across industries. My expertise lies in designing, implementing, and troubleshooting Windows/Linux servers, virtualization platforms, and enterprise networks while providing clear, customer-focused technical support.
 
 ## Skills
 
