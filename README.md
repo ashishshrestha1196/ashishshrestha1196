@@ -1,9 +1,9 @@
 # Ashish Shrestha <a href="https://www.linkedin.com/in/ashrestha1196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-💻 Systems & Network Engineer | IT Infrastructure | Cybersecurity Enthusiast
+💻 Desktop Support Technician | Systems & Network Engineer | IT Infrastructure | Cybersecurity Enthusiast
 
 ## Objective
 
-I am a **Systems & Network Engineer** with over 5 years of experience delivering end-to-end IT infrastructure solutions, supporting **enterprise networks**, and ensuring system reliability for clients across industries. My expertise lies in designing, implementing, and troubleshooting Windows/Linux servers, virtualization platforms, and enterprise networks while providing clear, customer-focused technical support.
+I am a **Systems & Network Support Technician** with over 5 years of experience delivering end-to-end IT infrastructure solutions, supporting **enterprise networks**, and ensuring system reliability for clients across industries. My expertise lies in implementing, and troubleshooting Windows/Linux servers, virtualization platforms, and enterprise networks while providing clear, customer-focused technical support.
 
 ## Skills
 
